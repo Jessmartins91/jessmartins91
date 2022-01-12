@@ -1,4 +1,4 @@
-# Olá , Sou a Jessica Martins ☺ <br>
+# Olá , Sou a Jéssica Martins ☺ <br>
 
 👩‍💻 Graduanda em Análise e Desenvolvimento de Sistemas.<br>
 🖱 Programadora Front-end em formação.<br>
